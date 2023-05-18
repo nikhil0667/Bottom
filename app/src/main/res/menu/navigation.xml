@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navi_profile"
+        android:orderInCategory="@integer/material_motion_duration_long_1"
+        android:icon="@drawable/baseline_person_24"
+
+        android:title="" />
+    <item
+        android:id="@+id/navi_home"
+        android:orderInCategory="@integer/material_motion_duration_long_1"
+        android:icon="@drawable/baseline_home_24"
+        android:title="" />
+    <item
+        android:id="@+id/navi_service"
+        android:orderInCategory="@integer/material_motion_duration_long_1"
+        android:icon="@drawable/pngegg__1_"
+        android:title="" />
+    <item
+        android:id="@+id/navi_about"
+        android:orderInCategory="@integer/material_motion_duration_long_1"
+        android:icon="@drawable/pngegg"
+        android:title="" />
+    <item
+        android:id="@+id/navi_contact"
+        android:orderInCategory="@integer/material_motion_duration_long_1"
+        android:icon="@drawable/pngegg__2_"
+        android:title="" />
+
+
+</menu>
